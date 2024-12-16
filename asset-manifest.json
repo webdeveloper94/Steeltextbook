@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Steel-properties-edu/static/css/main.ef0b6634.css",
+    "main.js": "/Steel-properties-edu/static/js/main.794ae32d.js",
+    "index.html": "/Steel-properties-edu/index.html",
+    "main.ef0b6634.css.map": "/Steel-properties-edu/static/css/main.ef0b6634.css.map",
+    "main.794ae32d.js.map": "/Steel-properties-edu/static/js/main.794ae32d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef0b6634.css",
+    "static/js/main.794ae32d.js"
+  ]
+}
